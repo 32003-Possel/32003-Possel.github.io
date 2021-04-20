@@ -11,4 +11,4 @@
 
 ## Rashomon-2D Game WebGL Frontend Source Code
 
-[https://github.com/32003-Possel/32003-Possel.github.io/start/](https://github.com/32003-Possel/32003-Possel.github.io/start/)
+[https://github.com/32003-Possel/32003-Possel.github.io/tree/main/start](https://github.com/32003-Possel/32003-Possel.github.io/tree/main/start)
